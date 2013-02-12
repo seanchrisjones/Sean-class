@@ -1,0 +1,50 @@
+html {
+	background: url(dest-healdsburg-lobby.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size; cover;
+	background-size: cover;
+}
+
+body > nav > ul li {
+	list-style: none;
+	text-decoration: none;
+
+
+}
+
+#social ul li {
+	list-style: none;
+	padding:0 0 12px;
+	float: right;
+}
+
+#container{
+	height:px;
+	width: px;
+	
+}
+
+
+
+#maincontent{
+	text-align: center;
+	height:532.1875px;
+	width: 515.391625px;
+	padding: 60;
+	margin-top: 20px;
+	margin-right: 35px;
+	margin-bottom: 112px;
+	margin-left: 35.296875px;
+	opacity: 1.0;
+	}
+
+#block{
+	height:532.1875px;
+	width: 565.391625px;
+	background-color: #000000;
+	opacity: 0.5;
+
+}
+
+
