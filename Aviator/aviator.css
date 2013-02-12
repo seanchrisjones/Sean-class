@@ -81,9 +81,22 @@ font-family: Georgia, serif;
 font-weight: 400;
 font-style: italic;
 font-size: 21px;
+color: goldenrod;
 }
 
 #maincontent ul{
 	list-style: none
 }
 
+a:link{
+	text-decoration: none;
+	color: white;
+}
+
+#topbar > ul li a:visited{
+	text-decoration: none;
+	color: white;
+}
+#maincontent li a:visited{
+	color:white;
+	}
