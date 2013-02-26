@@ -1,0 +1,16 @@
+!!!
+%html
+	%head
+		%link{:rel =>"stylesheet", :href=>"practice.css"}
+		%title Making a practice web app 
+	%body
+		%div 
+			#nav
+				%ul
+					%li 
+						%a{:href => "http://localhost4567/"} Home
+					%li  
+						%a{:href => "http://localhost4567/about"} About 
+					%li 
+						%a{:href => "http://localhost4567/contact"} Contact
+		=yield 
