@@ -1,8 +1,11 @@
 $(document).ready(function() {
 
-	$('#clicky').click(function () {
+	$('button').click(function () {
 		$('#basketball').animate({
-			bottom: '+=300'
+			bottom: '+=500'
+			
+
+			
 		});
 	});
 	
